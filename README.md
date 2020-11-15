@@ -7,7 +7,7 @@ This project was developed within the CS50 course and would not be possible with
 Prof. Malan and his teaching fellows kept me motivated throughout the year and helped me reach my goal of creating an app from scratch and without prior programming knowledge in this field.
 
 ## Intro:
-Caffeine in a stimulant found in several beverages, food, and medicine. Healthy doses can make you more alert but too much caffeine can make you feel jittery, cause headaches, and hinder your sleep.
+Caffeine is a stimulant found in several beverages, food, and medicine. Healthy doses can make you more alert but too much caffeine can make you feel jittery, cause headaches, and hinder your sleep.
 
 ## The App:
 cOFFline is an iOS app that lets you track and monitor your caffeine intake. It helps you reach your caffeine goal in milligrams before going to bed in order to have a restful sleep. This app will support you in having and healthy relationship with caffeine. You will be surprised how changing small habits can make a big impact through awareness.
