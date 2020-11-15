@@ -12,9 +12,6 @@ cOFFline is an iOS app that lets you track and monitor your caffeine intake. It 
 
 In version 1.0 you can add different coffee types for your intake and the app will track your caffeine intake over the day and show your optimal sleep time.
 
-## Looks:
-
-
 ## Customizing: 
 You can customize the app by choosing your sensitivity and your milligram goal of caffeine you want to have before going to sleep.
 
@@ -39,3 +36,10 @@ Example: By choosing the medium (half-life of 6 hours) sensitivity and having 20
 - Adding different beverages like Cola, Tea, caffeine tablets and Energy Drinks
 - Letting the user customize every beverage and its caffeine contents
 
+## Looks:
+![The looks of the app](https://github.com/BarTechB/cs50-finalproject/blob/main/Screenshots/Look_01.png?raw=true)
+![Types of coffee, which you can add](https://github.com/BarTechB/cs50-finalproject/blob/main/Screenshots/Types_02.png?raw=true)
+![The wave motion](https://github.com/BarTechB/cs50-finalproject/blob/main/Screenshots/Wave_Motion_03.png?raw=true)
+![Settings view](https://github.com/BarTechB/cs50-finalproject/blob/main/Screenshots/Settings_04.png?raw=true)
+![Alert if over 400 mg](https://github.com/BarTechB/cs50-finalproject/blob/main/Screenshots/Alert_05.png?raw=true)
+![Dark Mode](https://github.com/BarTechB/cs50-finalproject/blob/main/Screenshots/DarkMode_05.png?raw=true)
