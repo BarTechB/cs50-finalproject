@@ -17,22 +17,22 @@ You can customize the app by choosing your sensitivity and your milligram goal o
 
 The sensitivity level you can choose from are the following:
 
-•	Low: Caffeine Half-Life of 4 hours
-•	Medium: Caffeine Half-Life of 6 hours
-•	Strong: Caffeine Half-Life of 8 hours 
+- Low: Caffeine Half-Life of 4 hours
+- Medium: Caffeine Half-Life of 6 hours
+- Strong: Caffeine Half-Life of 8 hours 
 
 Example: By choosing the medium (half-life of 6 hours) sensitivity and having 200mg caffeine at 1 pm, you would still have 100 mg caffeine at 7 pm.
 
 
 ## Features:
-•	Light and Dark Theme
-•	Three languages (English, German, Polish)
-•	Notification after reaching your caffeine goal
-•	Alert after having over 400mg of caffeine
+- Light and Dark Theme
+- Three languages (English, German, Polish)
+- Notification after reaching your caffeine goal
+- Alert after having over 400mg of caffeine
 
 ## Future / Planned features:
-•	Statistics Overview
-•	Logging and letting the user delete individual drinks
-•	Adding different beverages like Cola, Tea, caffeine tablets and Energy Drinks
-•	Letting the user customize every beverage and its caffeine contents
+- Statistics Overview
+- Logging and letting the user delete individual drinks
+- Adding different beverages like Cola, Tea, caffeine tablets and Energy Drinks
+- Letting the user customize every beverage and its caffeine contents
 
