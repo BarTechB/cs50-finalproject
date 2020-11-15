@@ -12,6 +12,9 @@ cOFFline is an iOS app that lets you track and monitor your caffeine intake. It 
 
 In version 1.0 you can add different coffee types for your intake and the app will track your caffeine intake over the day and show your optimal sleep time.
 
+## Looks:
+
+
 ## Customizing: 
 You can customize the app by choosing your sensitivity and your milligram goal of caffeine you want to have before going to sleep.
 
