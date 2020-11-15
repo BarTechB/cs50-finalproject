@@ -1,4 +1,4 @@
-### CS50 - Final Project: "cOFFline"
+# CS50 - Final Project: "cOFFline"
 
 ## Foreword:
 
