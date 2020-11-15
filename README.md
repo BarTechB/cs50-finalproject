@@ -2,7 +2,8 @@
 
 ## Foreword:
 
-This project was developed within the CS50 course and would not be possible without the great Prof. David Malan. Prof. Malan and his teaching fellows kept me motivated throughout the year and helped me reach my goal of creating an app from scratch and without prior programming knowledge in this field.
+This project was developed within the CS50 course and would not be possible without the great Prof. David Malan. 
+Prof. Malan and his teaching fellows kept me motivated throughout the year and helped me reach my goal of creating an app from scratch and without prior programming knowledge in this field.
 
 ## Intro:
 Caffeine in a stimulant found in several beverages, food, and medicine. Healthy doses can make you more alert but too much caffeine can make you feel jittery, cause headaches, and hinder your sleep.
